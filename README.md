@@ -38,8 +38,9 @@ Additional information:
 ## Development
 
 1. Install as described above within a local development environment
-2. cd to plugin folder
-3. For Development: npm run dev
-4. Final Build: npm run build
-5. Edit .js and .scss files in /src/ folder
-6. Production files will be compiled in /dist/
+2. `cd` to plugin folder
+3. Install Dependencies: `npm install`
+4. For Development: `npm run dev`
+5. Final Build: `npm run build`
+6. Edit .js and .scss files in /src/ folder
+7. Production files will be compiled in /dist/
